@@ -15,7 +15,7 @@
 
 # 👨‍💻 About Myself - The Double Life of a QA Engineer
 
-Cliff Ian Murillo, a.k.a. **"Ian"**, lives a double life more complex than any Marvel character. By day, he isn’t just a QA Engineer — he’s the **final boss** that bugs pray they never meet, bravely venturing into the treacherous lands of broken features and mysterious requirements. Armed with only a keyboard, a test case, and a suspicious squint, he uncovers flaws in the system like **Sherlock Holmes in a hoodie**. His lead, **Sean**, occasionally wonders if Ian talks to the bugs before logging them — just to make sure they feel seen.
+Cliff Ian Murillo, a.k.a. **"Ian"**, lives a double life more complex than any Marvel character. By day, he isn’t just a QA Engineer — he’s the **final boss** that bugs pray they never meet, bravely venturing into the treacherous lands of broken features and mysterious requirements. Armed with only a keyboard, a test case, and a suspicious squint, he uncovers flaws in the system like **Sherlock Holmes in a hoodie**. His manager often wonders if Ian talks to the bugs before logging them — just to make sure they feel seen.
 
 But the real plot twist comes after hours. When the laptop closes, the **baby monitor lights up**. Ian trades his Jira tickets for bottle duty and his bug reports for lullabies. **Sleep is a myth**, peace is negotiable, and the only sprint he’s doing is to catch a rogue diaper before it hits the floor. Legend has it that if you chant “Test” three times in front of a mirror, Ian appears behind you with a pacifier and a failed test case.
 
