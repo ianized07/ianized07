@@ -19,6 +19,7 @@ Cliff Ian Murillo, a.k.a. **"Ian"**, lives a double life more complex than any M
 
 But the real plot twist comes after hours. When the laptop closes, the **baby monitor lights up**. Ian trades his Jira tickets for bottle duty and his bug reports for lullabies. **Sleep is a myth**, peace is negotiable, and the only sprint he’s doing is to catch a rogue diaper before it hits the floor. Legend has it that if you chant “Test” three times in front of a mirror, Ian appears behind you with a pacifier and a failed test case.
 
+---
 
 # 📚 Education
 
@@ -28,6 +29,7 @@ But the real plot twist comes after hours. When the laptop closes, the **baby mo
 | **High School Education Diploma**        | Don Vicente Rama Memorial National High School (DVRMNHS) | 2008            | "High school taught me valuable life skills—like how to fake confidence during a presentation I didn’t prepare for, and how to survive group projects by doing 99% of the work while smiling through the betrayal. I went in for education, came out with trauma, a meme collection, and the ability to calculate my grade faster than the teacher could." |
 | **Elementary Education Diploma**         | Don Vicente Rama Memorial Elementary School (DVRMES)    | 2004            | "Elementary school was wild—I peaked academically when I got a gold star for coloring inside the lines and emotionally when I traded my lunchable for two Oreos. Recess was my cardio, nap time was sacred, and my biggest fear was getting picked last in dodgeball... or accidentally calling the teacher 'mom'." |
 
+---
 
  # 🔧 Skills & Specialties
 
