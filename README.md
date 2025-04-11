@@ -68,7 +68,7 @@ Hi there! If you don't already know, I'm a professional bug hunter, software str
 
 ---
 
-> "Testing isn’t just a job, it’s a lifestyle of politely saying 'this is broken' 43 times a day."
+> 💡 "Testing isn’t just a job, it’s a lifestyle of politely saying 'this is broken' 43 times a day."
 
 ---
 
