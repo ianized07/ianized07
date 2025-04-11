@@ -13,46 +13,26 @@
 <h3><i>I'm Cliff Ian Murillo!</i></h3>
 
 
-# About myself
+# 👨‍💻 About Myself - The Double Life of a QA Engineer
 
-Cliff Ian Murillo, a.k.a. "***Ian***", lives a double life more complex than any Marvel character. By day, he isn't just a QA Engineer — he’s the final boss that bugs pray they never meet, bravely venturing into the treacherous lands of broken features and mysterious requirements. Armed with only a keyboard, a test case, and a suspicious squint, he uncovers flaws in the system like Sherlock Holmes in a hoodie. His lead, Sean, occasionally wonders if Ian talks to the bugs before logging them — just to make sure they feel seen.
+Cliff Ian Murillo, a.k.a. **"Ian"**, lives a double life more complex than any Marvel character. By day, he isn’t just a QA Engineer — he’s the **final boss** that bugs pray they never meet, bravely venturing into the treacherous lands of broken features and mysterious requirements. Armed with only a keyboard, a test case, and a suspicious squint, he uncovers flaws in the system like **Sherlock Holmes in a hoodie**. His lead, **Sean**, occasionally wonders if Ian talks to the bugs before logging them — just to make sure they feel seen.
 
-But the real plot twist comes after hours. When the laptop closes, the baby monitor lights up. Ian trades his Jira tickets for bottle duty and his bug reports for lullabies. Sleep is a myth, peace is negotiable, and the only sprint he's doing is to catch a rogue diaper before it hits the floor. Legend has it that if you chant “Test” three times in front of a mirror, Ian appears behind you with a pacifier and a failed test case.
+But the real plot twist comes after hours. When the laptop closes, the **baby monitor lights up**. Ian trades his Jira tickets for bottle duty and his bug reports for lullabies. **Sleep is a myth**, peace is negotiable, and the only sprint he’s doing is to catch a rogue diaper before it hits the floor. Legend has it that if you chant “Test” three times in front of a mirror, Ian appears behind you with a pacifier and a failed test case.
 
-# Education
 
-<table>
-  <tr>
-    <th>Course</th>
-    <th>School/University</th>
-    <th>Year of Passing</th>
-    <th>Remarks</th>
-  </tr>
-  <tr>
-    <td>Bachelor of Science in Information Technology</td>
-    <td>Asian College of Technology</td>
-    <td>2015</td>
-    <td>College taught me two things: how to write a 10-page paper in one night, and how to survive on instant noodles, caffeine, and pure academic panic. I went in for a degree, came out with trust issues and back pain.</td>
-  </tr>
-  <tr>
-    <td>High School Education Diploma</td>
-    <td>Don Vicente Rama Memorial National High School (DVRMNHS) </td>
-    <td>2008</td>
-    <td>High school taught me valuable life skills—like how to fake confidence during a presentation I didn’t prepare for, and how to survive group projects by doing 99% of the work while smiling through the betrayal. I went in for education, came out with trauma, a meme collection, and the ability to calculate my grade faster than the teacher could.</td>
-  </tr>
-  <tr>
-    <td>Elementary Education Diploma</td>
-    <td>Don Vicente Rama Memorial Elementary School (DVRMES) </td>
-    <td>2004</td>
-    <td>Elementary school was wild—I peaked academically when I got a gold star for coloring inside the lines and emotionally when I traded my lunchable for two Oreos. Recess was my cardio, nap time was sacred, and my biggest fear was getting picked last in dodgeball... or accidentally calling the teacher 'mom'.</td>
-  </tr>
- </table>
+# 📚 Education
 
- # Skills
+| Course                                    | School/University                                       | Year of Passing | Remarks                                                                                                                                              |
+|-------------------------------------------|---------------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Bachelor of Science in Information Technology** | Asian College of Technology                             | 2015            | "College taught me two things: how to write a 10-page paper in one night, and how to survive on instant noodles, caffeine, and pure academic panic. I went in for a degree, came out with trust issues and back pain." |
+| **High School Education Diploma**        | Don Vicente Rama Memorial National High School (DVRMNHS) | 2008            | "High school taught me valuable life skills—like how to fake confidence during a presentation I didn’t prepare for, and how to survive group projects by doing 99% of the work while smiling through the betrayal. I went in for education, came out with trauma, a meme collection, and the ability to calculate my grade faster than the teacher could." |
+| **Elementary Education Diploma**         | Don Vicente Rama Memorial Elementary School (DVRMES)    | 2004            | "Elementary school was wild—I peaked academically when I got a gold star for coloring inside the lines and emotionally when I traded my lunchable for two Oreos. Recess was my cardio, nap time was sacred, and my biggest fear was getting picked last in dodgeball... or accidentally calling the teacher 'mom'." |
+
+
+ # 🔧 Skills & Specialties
 
 Hi there! If you don't already know, I'm a professional bug hunter, software stress tester, and part-time therapist for frustrated developers. Here's what I bring to the table (besides coffee and chaos):
 
-## 🔧 Skills & Specialties
 
 - 🔍 **Pixel-Level Vision**  
   Can spot a misaligned button from space. NASA, call me.
@@ -90,7 +70,7 @@ Hi there! If you don't already know, I'm a professional bug hunter, software str
 
 ---
 
-# QA Tech Stack (Now with 37% more sarcasm)
+# 🛠️ QA Tech Stack (Now with 37% more sarcasm)
 
 > *"Approved by 9 out of 10 developers I mildly annoy."*  
 > *"Endorsed by Jira tickets that still haunt my sleep."*
