@@ -78,7 +78,7 @@ Hi there! If you don't already know, I'm a professional bug hunter, software str
 > *"Endorsed by Jira tickets that still haunt my sleep."*
 
 ### 🔧 Tools of Destruction
-| 🚀 Category      | 🛠️ Tools / Tech                           | 💬 Remarks                                        |
+| 🚀 Category      | 🛠️ Tools / Tech                           | 💬 Comments / Suggestions / Violent Reactions            |
 |------------------|-------------------------------------------|------------------------------------------------------------|
 | 🧪 Testing Tools | ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white) ![UFT](https://img.shields.io/badge/UFT-0067B1?logo=hp&logoColor=white) | "Click, break, repeat." |
 | 🔍 Frameworks    | ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white) | "Tests fail. I don't." |
