@@ -1,10 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianized07&label=Profile%20views&color=blueviolet&style=flat-square&label=Stalkers+Count&abbreviated=true&base=2300" alt="ianized07" /> </p>
 
-> [!IMPORTANT]  
-> "*Right and wrong* are not what separate us and our enemies. It's our *different standpoints, our perspectives,* that separate us. Both sides blame one another. There's *no good or bad side*.
-> Just two sides holding different views."
+> [!IMPORTANT]
+>***"Right and wrong*** are not what separate us from our enemies.
+> It is our ***differing standpoints—our perspectives—*** that divide us.
+> Both sides ***place blame*** on one another.
+> There is ***no good or bad side,*** only ***two sides holding different views."*** 
 >
-> &ndash; ***Squall Leonhart***
+> &mdash; ***Squall Leonhart***
 
 ---
 
@@ -49,10 +51,10 @@ Hi there! If you don't already know, I'm a professional bug hunter, software str
   Not *that* kind. I make bugs show up every time. Consistency is key.
 
 - 🧾 **Detailed Bug Reports**  
-  So thorough your grandma could fix the issue. If she knew JavaScript.
+  So thorough that your grandma could fix the issue. If she knew JavaScript.
 
 - ⏱️ **Time Traveler**  
-  Can feel when a sprint is about to go off the rails. Spoiler alert: it’s now.
+  Can feel when a sprint is about to go off the rails. Spoiler alert: It’s now.
 
 - 🎮 **Click Accuracy**  
   Clicked more buttons last week than a speedrunner fighting a final boss.
@@ -64,11 +66,11 @@ Hi there! If you don't already know, I'm a professional bug hunter, software str
   Master of adding “as expected?” to screenshots with chaotic neutral energy.
 
 - 📞 **Communication God-Tier**  
-  Fluent in English, Tagalog, and passive-aggressive Jira comments.
+  Fluent in Cebuano Bisaya, Tagalog, English, and passive-aggressive Jira comments.
 
 ---
 
-> 💡 "Testing isn’t just a job, it’s a lifestyle of politely saying 'this is broken' 43 times a day."
+> 💡 "Testing isn’t just a job; it’s a lifestyle of politely saying 'this is broken' 43 times a day."
 
 ---
 
